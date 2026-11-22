@@ -8,3 +8,4 @@ so this website would have an index page which would have links to few recipes.
 ## What skills it would demonstrate
 - basics of HTML
 - links
+- images
